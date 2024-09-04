@@ -1,4 +1,4 @@
-export default function Card({ title, imgUrl, onClick }) {
+export default function Panel({ title, imgUrl, onClick }) {
   return (
     <section
       onClick={onClick}
